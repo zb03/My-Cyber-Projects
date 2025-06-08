@@ -31,6 +31,15 @@ A beginner-friendly path focused on SOC fundamentals, log analysis, threat detec
 
 ---
 
+### 🔎 Microsoft Sentinel Log Analysis
+- Set up a simulated SIEM environment using Microsoft Sentinel in Azure  
+- Analyzed log data from virtual machines to detect suspicious activity  
+- Practiced KQL (Kusto Query Language) for querying logs and identifying potential attacks  
+- Created alert rules and dashboards for monitoring abnormal behavior  
+- Simulated attacks to test detection capabilities (PowerShell, RDP brute force, and port scans)
+
+---
+
 ### 📺 Guided Labs from East Charmer (YouTube)
 - Followed Windows Server setup tutorials including domain controller creation, DNS setup, and AD structuring  
 - Simulated real-world help desk/admin tasks using a safe virtual test lab  
