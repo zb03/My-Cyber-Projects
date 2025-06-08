@@ -1,64 +1,81 @@
-# 👋 Hi, I’m Zamirrea
+# 👋 Hi, I’m Zamirrea 💻✨
 
 Welcome to my GitHub!
 
 I’m an aspiring IT Support and Cybersecurity professional with hands-on experience in virtual labs, system administration, and security operations. This profile documents my learning journey as I transition into the tech industry—focusing on practical, self-paced training through platforms like TryHackMe, YouTube labs, and virtual home lab environments.
 
----
+With a background that bridges IT support, customer service, and hands-on cybersecurity practice, I’m building a career rooted in investigation, defense, and digital problem-solving.
 
-## 🔐 Cybersecurity Labs Completed
+I’ve worked directly with end-users, resolving hardware and software issues, configuring networks, and providing Tier 1+ support — experiences that gave me a strong foundation in real-world IT troubleshooting and customer-centered technical communication. As a former Technology Instructor at a public library, I also empowered community members to build confidence using tools like Adobe Creative Suite, Final Cut Pro, and 3D printing. Now, I’m channeling that creative-technical energy into cybersecurity.
 
-### TryHackMe – Junior Security Analyst Learning Path (In Progress)
-A beginner-friendly path focused on SOC fundamentals, log analysis, threat detection, and practical blue team tools.
-
-**Completed Rooms:**
-- ✅ Introduction to Cybersecurity  
-- ✅ Network Security  
-- ✅ Phishing Email Analysis  
-- ✅ SIEM with Splunk  
-- ✅ Windows Security Basics  
-- ✅ SOC Level 1 Challenge  
-
-👉 See more: [TryHackMe Profile](https://tryhackme.com/p/YOURUSERNAME)
+From standing up a home Active Directory lab to diving into SIEM tools and log analysis, I’m actively sharpening the skills I need to protect systems and support blue team operations in a SOC environment.
 
 ---
 
-### 🖥️ Home Lab Projects
-- Rebuilt desktop and laptop hardware (disassembly and full OS reinstallation)
-- Created virtual machines for Windows 10/11, Kali Linux, and Ubuntu using VirtualBox
-- Built a functional Active Directory domain controller using Windows Server  
-- Practiced DNS, DHCP, GPOs, and user/OU management in an enterprise-like test environment
+🚀 **Current Projects & Labs**
+
+🧪 Hands-on labs simulating SOC analyst workflows (via TryHackMe, CyberDefenders)  
+🏢 Built an Active Directory Domain Controller lab (Windows Server 2022 + VirtualBox)  
+🛡️ Wazuh SIEM lab: log forwarding, rule tuning, and detection testing  
+🔎 Microsoft Sentinel: log analysis, alert triage, and KQL scripting  
+📁 Windows Event Log Analysis: traced brute-force attacks and suspicious PowerShell behavior
 
 ---
 
-### 🔎 Microsoft Sentinel Log Analysis
-- Set up a simulated SIEM environment using Microsoft Sentinel in Azure  
-- Analyzed log data from virtual machines to detect suspicious activity  
-- Practiced KQL (Kusto Query Language) for querying logs and identifying potential attacks  
-- Created alert rules and dashboards for monitoring abnormal behavior  
-- Simulated attacks to test detection capabilities (PowerShell, RDP brute force, and port scans)
+🧠 **Core Skills I’m Developing as a Cybersecurity Analyst**
+
+🔍 **Threat Detection & Incident Response**
+- Writing detection queries using KQL (Kusto Query Language)
+- Investigating alerts using SIEM tools (Microsoft Sentinel, Wazuh)
+- Simulating real-world attacks: RDP brute force, credential dumping, malicious PowerShell
+
+📊 **Log & Endpoint Analysis**
+- Parsing Windows Event Logs (e.g., 4625, 4688, 7045)
+- PowerShell tracing and process tree analysis
+- Creating detection reports and correlating multi-source logs
+
+🔐 **Security Foundations**
+- Understanding network protocols (TCP/IP, DNS, DHCP, SMB)
+- Applying MITRE ATT&CK for threat mapping and triage
+- Documenting Indicators of Compromise (IOCs)
+
+⚙️ **Home Lab & Tooling**
+- Microsoft Azure VM configuration and hardening
+- Active Directory setup with OU/GPO structure
+- Using VirusTotal, Sysinternals, and Wireshark for threat investigation
 
 ---
 
-### 📺 Guided Labs from East Charmer (YouTube)
-- Followed Windows Server setup tutorials including domain controller creation, DNS setup, and AD structuring  
-- Simulated real-world help desk/admin tasks using a safe virtual test lab  
-- Practiced resolving lab-level networking and user account issues
+🛠 **Work Experience That Supports My Cybersecurity Path**
+
+💼 **IT & Tech Support Roles**
+- Diagnosed and resolved hardware/software issues in fast-paced environments  
+- Configured user accounts, managed permissions, and responded to technical tickets  
+- Hands-on with endpoint security practices and Windows troubleshooting
+
+📚 **Tech Education & Instruction**
+- Taught community members essential digital tools: from creative software to tech literacy  
+- Broke down complex topics into digestible, confidence-building lessons  
+- Empowered non-technical users to engage with digital platforms
 
 ---
 
-## 🛠️ Skills in Progress
-- Windows Server & Active Directory  
-- Linux CLI & system management  
-- Threat detection & log analysis  
-- Splunk SIEM basics  
-- Networking fundamentals (TCP/IP, DNS, DHCP)
+📚 **Certs in Progress**
+- CompTIA Security+
+- TryHackMe SOC Analysist Tier 1
+- Google IT Professional (Completed)
 
 ---
 
-### 📫 Let’s Connect
-I'm open to opportunities in IT Support, SOC Analyst (Level 1), or Technical Support roles where I can grow and contribute my passion for problem-solving and learning.
+📫 **Let’s Connect**
 
-Thanks for visiting!
+📎 
+📩 Email: zamirreab@gmail.com  
+📁 Check out my lab documentation right here on GitHub
+
+---
+
+💡 Whether you’re a recruiter, a fellow learner, or just curious — I’d love to connect and share ideas around building a safer digital world!
+
 
 
