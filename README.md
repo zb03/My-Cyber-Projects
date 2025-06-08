@@ -44,19 +44,6 @@ From standing up a home Active Directory lab to diving into SIEM tools and log a
 
 ---
 
-🛠 **Work Experience That Supports My Cybersecurity Path**
-
-💼 **IT & Tech Support Roles**
-- Diagnosed and resolved hardware/software issues in fast-paced environments  
-- Configured user accounts, managed permissions, and responded to technical tickets  
-- Hands-on with endpoint security practices and Windows troubleshooting
-
-📚 **Tech Education & Instruction**
-- Taught community members essential digital tools: from creative software to tech literacy  
-- Broke down complex topics into digestible, confidence-building lessons  
-- Empowered non-technical users to engage with digital platforms
-
----
 
 📚 **Certs in Progress**
 - CompTIA Security+
