@@ -6,8 +6,6 @@ I’m an aspiring IT Support and Cybersecurity professional with hands-on experi
 
 With a background that bridges IT support, customer service, and hands-on cybersecurity practice, I’m building a career rooted in investigation, defense, and digital problem-solving.
 
-I’ve worked directly with end-users, resolving hardware and software issues, configuring networks, and providing Tier 1+ support — experiences that gave me a strong foundation in real-world IT troubleshooting and customer-centered technical communication. As a former Technology Instructor at a public library, I also empowered community members to build confidence using tools like Adobe Creative Suite, Final Cut Pro, and 3D printing. Now, I’m channeling that creative-technical energy into cybersecurity.
-
 From standing up a home Active Directory lab to diving into SIEM tools and log analysis, I’m actively sharpening the skills I need to protect systems and support blue team operations in a SOC environment.
 
 ---
